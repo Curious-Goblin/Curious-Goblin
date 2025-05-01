@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=curious-goblin&label=Profile%20views&color=0e75b6&style=flat" alt="curious-goblin" /> </p>
 
-- 🔭 I’m currently working on **React**
-
-- 🌱 I’m currently learning **typescript**
+- 🔭 I’m learing **DevOps**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
